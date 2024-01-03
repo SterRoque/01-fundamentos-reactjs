@@ -12,7 +12,7 @@ export function App() {
         <main>
           <Post
             autor="Sra. Roque"
-            content="Meu amado Sr. Roque, Ao seu lado, cada dia é uma página preciosa de risos e cumplicidade. Seus olhos iluminam minha jornada, proporcionando conforto e força. Cada momento contigo é um tesouro, e nosso amor é a essência que dá sentido aos meus dias. Prometo cultivar este jardim de afeto que floresce entre nós. Com todo o meu amor, [Seu Nome].\n"
+            content="Meu amado Sr. Roque, Ao seu lado, cada dia é uma página preciosa de risos e cumplicidade. Seus olhos iluminam minha jornada, proporcionando conforto e força. Cada momento contigo é um tesouro, e nosso amor é a essência que dá sentido aos meus dias. Prometo cultivar este jardim de afeto que floresce entre nós. Com todo o meu amor, [Seu Nome].\nkkkkkkkkkkkkkkk"
           />
           <Post
             autor="Sr. Roque"
